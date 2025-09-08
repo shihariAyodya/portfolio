@@ -141,7 +141,7 @@ nav .right a span {
 
   /* background image (fit fully) */
   linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1))
-  background-image: url("img3.JPG");
+  background-image: url("img3.jpg");
   background-size: 120%;     /* show full image */
   background-repeat: no-repeat; 
   background-position: center;  
